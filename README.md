@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on a person who knows about java
 - 📫 How to reach me mohaiabdul9@gmail.com
-- 😄 Pronouns: joke
+- 😄 Pronouns: em
 - ⚡ Fun fact: i'm a coffe lover
 
 <!---
