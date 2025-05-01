@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a person who knows about java
 - 📫 How to reach me mohaiabdul9@gmail.com
 - 😄 Pronouns: em
-- ⚡ Fun fact: i'm a coffe lover
+- ⚡ Fun fact: skygazer
 
 <!---
 mohaimenabdulazis6/mohaimenabdulazis6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
