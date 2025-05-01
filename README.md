@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohaimenabdulazis6
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on a person who knows about java
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on a person who knows about coding
 - 📫 How to reach me mohaiabdul9@gmail.com
 - 😄 Pronouns: em
 - ⚡ Fun fact: skygazer
